@@ -1,9 +1,4 @@
 
-<div align="center">
-<img src="https://m1.paperblog.com/i/377/3772548/mejores-gifs-memes-reirte-el-mundo-L-fFCmIn.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Ángel, a full-time full-stack freelance developer 👨‍💻 working remotely since 2011🚀</div>  
   
 
