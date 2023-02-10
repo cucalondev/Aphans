@@ -2,7 +2,7 @@
 ### <div align="center">I'm Ángel, a full-time full-stack freelance developer 👨‍💻 working remotely since 2011🚀</div>  
   
 
-- 🔭 I’m currently working on [Calendar](https://github.com/Aphans/Easy-Automation.git)  
+- 🔭 I’m currently working on [Easy Automation](https://github.com/Aphans/Easy-Automation.git)  
   
 
 - 🌱 I’m currently learning JavaScript and PHP  
